@@ -96,6 +96,9 @@ D.	Lihat hasil pada server repository
   
 ![image](https://user-images.githubusercontent.com/56258731/67147733-9a216300-f2c1-11e9-8b50-d5d13bb9eb0e.png)
 
+![image](https://user-images.githubusercontent.com/56258731/67147876-35ff9e80-f2c3-11e9-8c23-959e22fcbbd2.png)
+
+
 
 
 
